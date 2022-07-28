@@ -1,5 +1,5 @@
-- 👋 Hi, Amit Kr Yadav here 
-- I’m currently pursuing B.Tech in CSE from KIIT,Orrisa,India🏫🎓
+- 👋 Hey, Amit Kr Yadav here 
+-Pursuing B.Tech(CSE) KIIT,Bhubaneswar
 -Just started  with coding and learning new skills👨🏻‍💻
 - You can reach me on instagram @_amit_._
 
